@@ -4,7 +4,6 @@
 
 I am a Backend developer and Physics/electronic's graduate.I love using technology to provide solution to human problems. I enjoy learning new things tech related and also out of tech. I am open to entry level backend developer job opportunities.
 
-**SKILLS**
 - Learning: Laravel.
 - Language: PHP, MySQL, HTML, CSS.
 - Hobbies: Soccer & electronics.
