@@ -2,9 +2,9 @@
 
 [Twitter](https://twitter.com/Omoluab_i)
 
-I am a Backend developer and Physics/electronic's graduate.I love using technology to provide solution to human problems. I enjoy learning new things tech related and also out of tech. I am open to entry level backend developer job opportunities.
+I am a Backend Intern at Flexisaf Edusoft and Physics/electronic's graduate.I love using technology to provide solution to human problems. I enjoy learning new things tech related and also out of tech. I am open to entry level backend developer job opportunities.
 
-- Learning: Laravel.
+- Learning: JAVA(Spring Boot).
 - Language: PHP, MySQL, HTML, CSS.
 - Hobbies: Soccer & electronics.
 - Contact Me: yyahaya222@yahoo.com.
