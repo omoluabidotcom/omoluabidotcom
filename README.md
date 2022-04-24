@@ -8,7 +8,7 @@ I am a Backend Intern at Flexisaf Edusoft and Physics/electronic's graduate.I lo
 
 - Learning: JAVA(Spring Boot).
 - Language: PHP, MySQL, HTML, CSS.
-- Hobbies: Soccer & electronics.
+- Hobby: Watch or play Soccer.
 - Contact Me: yyahaya222@yahoo.com.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omoluabidotcom)](https://github.com/anuraghazra/github-readme-stats)
