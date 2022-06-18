@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/yahaya-yusuf-76a3231b0/)
 
-I am a Physics/electronic's graduate and a Backend Developer inview.I love using technology to provide solution to human problems. I enjoy learning new things tech related and also out of tech.
+I am a Physics/electronic's graduate and a Backend Developer inview. I love using technology to provide solution to human problems. I enjoy learning new things tech related and also out of tech.
 
 - Learning: JAVA(Spring Boot).
 - Language: PHP, MySQL, HTML, CSS.
