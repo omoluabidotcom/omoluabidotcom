@@ -4,10 +4,10 @@
 
 [LinkedIn](https://www.linkedin.com/in/yahaya-yusuf-76a3231b0/)
 
-I am a Physics/electronic's graduate and a Backend Developer inview. I love using technology to provide solution to human problems. I enjoy learning new things tech related and also out of tech.
+I am a Self-thought Backend Developer and a Physics/electronic's graduate. In my school of thought it is fundamental that quality comes before quantity. I enjoy using technology to provide solution to human problems. I am currently on a hunt for my first role in tech.
 
-- Learning: JAVA(Spring Boot).
-- Language: PHP, MySQL, HTML, CSS.
+- Learning: Spring Boot.
+- Language: PHP, MySQL, HTML, CSS, Java.
 - Hobby: Watch/Play Soccer.
 - Contact Me: yyahaya222@yahoo.com.
 
