@@ -6,8 +6,8 @@
 
 I am a Self-thought Backend Developer and a Physics/electronic's graduate. In my school of thought it is fundamental that quality comes before quantity. I enjoy using technology to provide solution to human problems. I am currently on a hunt for my first role in tech.
 
-- Learning: Spring Boot.
-- Language: PHP, MySQL, HTML, CSS, Java.
+- Learning: Spring Boot, PostgreSQL.
+- Technologies/Tools: Spring Boot, Java, Postman, Git, GitHub, PHP, MySQL, HTML, CSS.
 - Hobby: Watch/Play Soccer.
 - Contact Me: yyahaya222@yahoo.com.
 
