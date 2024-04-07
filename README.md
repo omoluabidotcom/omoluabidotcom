@@ -4,14 +4,14 @@ I am Java Backend Developer and a Physics/electronic's graduate. I enjoy using t
 
 - Learning: I am currently exploring the world of Mobile App Development
 - Hobby: Watch/Play Soccer.
-- Check my latest article here: [https://medium.com/@yahayayusuf](https://pillai.xyz/dev)
+- Check my latest article here: [Hey!! Click Me](https://medium.com/@yahayayusuf)
 - How to reach me: **yyahaya222@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yahaya-yusuf-76a3231b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruthpillai" height="30" width="40" /></a>
-<a href="https://twitter.com/Omoluab_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingokings" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@yahayayusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@yahayayusuf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yahaya-yusuf-76a3231b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahayayusuf" height="30" width="40" /></a>
+<a href="https://twitter.com/Omoluab_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahayayusuf" height="30" width="40" /></a>
+<a href="https://medium.com/@yahayayusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@yahayayusuf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
