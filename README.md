@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yahaya Yusuf</h1>
 
-I am Java Backend Developer and a Physics/electronic's graduate. I enjoy using technology to provide solution to problems. In my school of thought it is fundamental that quality comes before quantity.
+I'm a Software Engineer with a strong foundation in Physics and Electronics, bringing a unique interdisciplinary perspective to technical challenges. My academic background empowers me to bridge theoretical principles with practical implementation, allowing me to approach problems with both analytical rigor and creative solutions.
 
-- Learning: I am currently exploring the world of Mobile App Development
+At the core of my professional ethos lies the fundamental belief that quality precedes quantity. I find deep satisfaction in harnessing technology to solve real-world problems, and I'm committed to delivering thoughtfully crafted, maintainable solutions rather than rushed implementations. Whether I'm developing software applications or working at the intersection of hardware and software domains, I remain dedicated to creating elegant solutions that make a meaningful impact.
+
+- Learning: I am currently exploring the world of AI, AI Agent, MCP Servers
 - Hobby: Watch/Play Soccer.
 - Check my latest article here: [Hey!! Click Me](https://medium.com/@yahayayusuf)
 - How to reach me: **yyahaya222@yahoo.com**
@@ -27,10 +29,7 @@ I am Java Backend Developer and a Physics/electronic's graduate. I enjoy using t
 <a href="https://vaadin.com/docs/latest/" target="_blank" rel="noreferrer"> <img src="" alt="VAADIN" width="40" height="40" />  </a> 
 </p>
 
-
-
-
-![Yahaya's github stats](https://github-readme-stats.vercel.app/api?username=omoluabidotcom&show_icons=true&hide_border=true)
+<!-- ![Yahaya's github stats](https://github-readme-stats.vercel.app/api?username=omoluabidotcom&show_icons=true&hide_border=true) -->
 
 
 
