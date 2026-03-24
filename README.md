@@ -5,7 +5,7 @@ I'm a Software Engineer with 3 years of professional experience building scalabl
 **What I Do**: \
 I specialize in building enterprise-grade applications using Java, Spring Boot, and microservices architecture. At Mirabilia Nig Limited, I've led critical initiatives including a large-scale data migration handling 850,000+ records, architected an interoperability mediator for Nigeria's Federal Ministry of Health connecting SORMAS and DHIS2 systems.
 
-- Learning: I am currently exploring the AI/Edge
+- Learning: I am currently exploring the AI/Cloud Technologies
 - Hobby: Watch/Play Soccer.
 - Check my latest article here: [Hey!! Click Me](https://medium.com/@yahayayusuf)
 - How to reach me: **yyahaya222@yahoo.com**
