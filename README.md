@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahaya Yusuf</h1>
 
-I'm a Software Engineer with 3 years of professional experience building scalable backend systems and leading impactful projects in the health technology sector. My background in Physics gives me a unique analytical perspective when approaching complex software challenges.
+I'm a Software Engineer with 4 years of professional experience building scalable backend systems and leading impactful projects in the health technology sector. My background in Physics gives me a unique analytical perspective when approaching complex software challenges.
 
 **What I Do**: \
 I specialize in building enterprise-grade applications using Java, Spring Boot, and microservices architecture. At Mirabilia Nig Limited, I've led critical initiatives including a large-scale data migration handling 850,000+ records, architected an interoperability mediator for Nigeria's Federal Ministry of Health connecting SORMAS and DHIS2 systems.
