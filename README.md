@@ -7,7 +7,7 @@
 
 ## 🎯 About Me
 
-I'm a Software Engineer with **4+ years of proven experience** designing and implementing scalable backend systems that power enterprise applications. My unique blend of technical expertise in Java, Spring Boot, and cloud architecture—combined with a Physics background enables me to approach complex problems with analytical rigor and creative problem-solving.
+I'm a Software Engineer with **3+ years of proven experience** designing and implementing scalable backend systems that power enterprise applications. My unique blend of technical expertise in Java, Spring Boot, and cloud architecture—combined with a Physics background enables me to approach complex problems with analytical rigor and creative problem-solving.
 
 **Currently:** Exploring AI/Cloud Technologies to stay at the cutting edge of software development.
 
