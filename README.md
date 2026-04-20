@@ -55,6 +55,6 @@ I'm always open to discussing technology, collaboration opportunities, and innov
   </a>
 </p>
 
-**📧 Email:** yyahaya222@gmail.com
+**📧 Email:** yyahaya222@gmail.com or +2348164346318
 
 ---
