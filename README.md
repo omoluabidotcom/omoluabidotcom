@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Yahaya Yusuf</h1>
-  <p><strong>Java Developer | Enterprise Systems Architect</strong></p>
+  <p><strong>Java Developer</strong></p>
 </div>
 
 ---
