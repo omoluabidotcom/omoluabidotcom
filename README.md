@@ -1,28 +1,16 @@
 <div align="center">
   <h1>👋 Yahaya Yusuf</h1>
-  <p><strong>Backend Software Engineer | Enterprise Systems Architect | Health Tech Innovator</strong></p>
+  <p><strong>Java Developer</strong></p>
 </div>
 
 ---
 
 ## 🎯 About Me
 
-I'm a Software Engineer with **4+ years of proven experience** designing and implementing scalable backend systems that power enterprise applications. My unique blend of technical expertise in Java, Spring Boot, and cloud architecture—combined with a Physics background enables me to approach complex problems with analytical rigor and creative problem-solving.
+I'm a Java Developer with **3+ years of proven experience** designing and implementing scalable backend systems that power enterprise applications. My unique blend of technical expertise in Java, JavaScript, Spring Boot, and cloud architecture enables me to approach complex problems with analytical rigor and creative problem-solving.
 
-**Currently:** Exploring AI/Cloud Technologies to stay at the cutting edge of software development.
+**Currently:** Exploring AI/Cloud Technologies.
 
----
-
-## 💼 What I Bring to the Table
-
-### Technical Leadership
-- **Enterprise Application Development**: Architect and build production-grade systems using Java, Spring Boot, and microservices
-- **Large-Scale Data Operations**: Successfully managed critical data migration projects handling 850,000+ records with zero data loss
-- **System Integration**: Designed and implemented interoperability solutions (e.g., SORMAS-DHIS2 mediator for Nigeria's Federal Ministry of Health)
-- **Cloud & DevOps**: AWS deployment, Docker containerization, CI/CD pipelines with Jenkins and GitHub Actions
-
-### Impact & Achievements
-At **Mirabilia Nig Limited**, I've led transformative initiatives that directly improved healthcare delivery and system reliability across the region.
 
 ---
 
@@ -53,7 +41,7 @@ I regularly share technical articles and insights on software architecture and b
 
 ## ⚽ Beyond Code
 
-When I'm not architecting systems, you'll find me strategizing over a soccer pitch—whether watching world-class talent or playing with friends. I believe the same principles that make great software (teamwork, strategy, and execution) apply to sports.
+When I'm not architecting systems, you'll find me strategizing over a soccer pitch, whether watching world-class talent or playing with friends. I believe the same principles that make great software (teamwork, strategy, and execution) apply to sports.
 
 ---
 
@@ -70,6 +58,6 @@ I'm always open to discussing technology, collaboration opportunities, and innov
   </a>
 </p>
 
-**📧 Email:** yyahaya222@yahoo.com
+**📧 Email:** yyahaya222@gmail.com or +2348164346318
 
 ---
