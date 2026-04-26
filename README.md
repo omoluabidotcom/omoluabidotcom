@@ -1,61 +1,74 @@
 <div align="center">
   <h1>👋 Yahaya Yusuf</h1>
-  <p><strong>Java Developer</strong></p>
+  <p><strong>Java Developer</strong> • Backend Engineering • Cloud & DevOps</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/yahaya-yusuf-76a3231b0/" target="_blank">LinkedIn</a>
+    ·
+    <a href="https://medium.com/@yahayayusuf" target="_blank">Medium</a>
+    ·
+    <a href="mailto:yyahaya222@gmail.com">yyahaya222@gmail.com</a>
+  </p>
 </div>
 
 ---
 
 ## 🎯 About Me
 
-I'm a Java Developer with **3+ years of proven experience** designing and implementing scalable backend systems that power enterprise applications. My unique blend of technical expertise in Java, JavaScript, Spring Boot, and cloud architecture enables me to approach complex problems with analytical rigor and creative problem-solving.
+I’m a Java Developer with **3+ years of experience** building and maintaining scalable backend systems for enterprise applications.
 
-**Currently:** Exploring AI/Cloud Technologies.
+- Strong focus on **clean architecture**, **API design**, **testing**, and **performance**
+- Comfortable across the delivery lifecycle: **design → build → ship → operate**
+- **Currently:** exploring **AI** and **Cloud** technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
+<!-- Keep icons aligned and horizontal by putting each <a> on its own line and removing whitespace gaps -->
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/></a><a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Spring Boot"/></a>
-  <a href="https://hibernate.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40" title="Hibernate"/></a>
-  <a href="https://junit.org/junit5/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40" height="40" title="JUnit"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins"/></a>
-  <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" title="GitHub Actions"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" title="PostgreSQL"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/></a>
-  <a href="https://vaadin.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vaadin/vaadin-original.svg" width="40" height="40" title="Vaadin"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot" /></a>
+  <a href="https://hibernate.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate" title="Hibernate" /></a>
+  <a href="https://junit.org/junit5/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit" title="JUnit" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" title="AWS" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" title="Jenkins" /></a>
+  <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" title="MySQL" /></a>
+  <a href="https://vaadin.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vaadin/vaadin-original.svg" width="40" height="40" alt="Vaadin" title="Vaadin" /></a>
 </p>
 
 ---
 
 ## 📝 Latest Insights
 
-I regularly share technical articles and insights on software architecture and backend development. [Read my articles on Medium](https://medium.com/@yahayayusuf)
+I share technical write-ups on backend development and software architecture.
+
+- Medium: https://medium.com/@yahayayusuf
 
 ---
 
 ## ⚽ Beyond Code
 
-When I'm not architecting systems, you'll find me strategizing over a soccer pitch, whether watching world-class talent or playing with friends. I believe the same principles that make great software (teamwork, strategy, and execution) apply to sports.
+When I’m not architecting systems, you’ll find me on (or watching) a soccer pitch. I like the parallels between great teams and great software: clear roles, strong fundamentals, and consistent execution.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-I'm always open to discussing technology, collaboration opportunities, and innovative ideas.
+I’m open to discussing backend engineering, collaboration opportunities, and interesting problems.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yahaya-yusuf-76a3231b0/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://medium.com/@yahayayusuf" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
 
-**📧 Email:** yyahaya222@gmail.com or +2348164346318
-
----
+**📧 Email:** yyahaya222@gmail.com  
+**📱 Phone:** +2348164346318
