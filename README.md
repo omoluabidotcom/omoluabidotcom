@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-I’m a Java Developer with **4 years of experience** building and maintaining scalable backend systems for enterprise applications.
+I’m a Java Backend Engineer with **4 years of experience** building and maintaining scalable backend systems for enterprise applications.
 
 - Strong focus on **clean architecture**, **API design**, **testing**, and **performance**
 - Comfortable across the delivery lifecycle: **design → build → ship → operate**
